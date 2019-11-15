@@ -1,10 +1,6 @@
 ﻿---
 category: blog
 img: karna.jpg
-image: >-
-  https://www.jhhearingaids.com/wp-content/uploads/2019/11/The-technicians-in-the-production-workshop-of-Jinghao-Medical-Technology-Co.-Ltd.-are-busy.png
-optimized_image: >-
-  https://www.jhhearingaids.com/wp-content/uploads/2019/11/The-technicians-in-the-production-workshop-of-Jinghao-Medical-Technology-Co.-Ltd.-are-busy.png
 
 ---
 ## ****DO THE BEST HEARING AIDS IN CHINA****
