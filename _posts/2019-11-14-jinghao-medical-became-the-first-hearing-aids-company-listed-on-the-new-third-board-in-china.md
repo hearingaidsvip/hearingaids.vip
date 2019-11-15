@@ -1,6 +1,10 @@
 ﻿---
+layout: post
+title:  "DO THE BEST HEARING AIDS IN CHINA"
+description: In 2017, the total sales exceeded 60 million yuan for the first time, taxing 2.19 million yuan; In 2018, the total sales exceeded 100 million yuan for the first time, and the tax revenue was 4.47 million yuan, which was listed on the New Third Board;
 category: blog
 img: karna.jpg
+color: ce150c
 
 ---
 ## ****DO THE BEST HEARING AIDS IN CHINA****
