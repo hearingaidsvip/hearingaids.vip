@@ -1,6 +1,6 @@
 ﻿---
 category: blog
-img:https://www.jhhearingaids.com/wp-content/uploads/2019/11/The-technicians-in-the-production-workshop-of-Jinghao-Medical-Technology-Co.-Ltd.-are-busy.png
+img: https://www.jhhearingaids.com/wp-content/uploads/2019/11/The-technicians-in-the-production-workshop-of-Jinghao-Medical-Technology-Co.-Ltd.-are-busy.png
 image: >-
   https://www.jhhearingaids.com/wp-content/uploads/2019/11/The-technicians-in-the-production-workshop-of-Jinghao-Medical-Technology-Co.-Ltd.-are-busy.png
 optimized_image: >-
